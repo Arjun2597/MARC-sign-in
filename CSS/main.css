@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body{
+    font-family: "Lora", san-serif;
+    background-color: #E9EAEE;
+}
+h1 {
+    font-size: 100px;
+    color: #1c86ee;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
+label {
+    font-size: 20px;
+}
+button{
+    margin: 10px;
+    float: right;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top-style: solid;
+    border-top-width: 3px;
+    border-top-color: #D87E28;
+    background-color: #afb3c2;
+    fontsize: 12px;
+    padding-top: 1em;
+
+}
